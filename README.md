@@ -4,7 +4,9 @@ The DineSmart project is a comprehensive application of the 22 cognitive design 
 The goal is to design a website focused on recipes and food blogging, where the primary objective is not the content but the demonstration of effective website design through the integration of cognitive principles. These principles include aspects of perception, memory, judgment, and user interaction, all aimed at enhancing user experience.
 ### 1.Loss Aversion - Framing
 Design Choice: A banner at the top of the homepage stating, "Don't miss out on our exclusive recipes—Subscribe now!"
+
 Screenshot: A header banner with bold text and a call-to-action button.
+
 
 Reasoning- This framing leverages loss aversion by making users feel they might miss out on something valuable if they don't subscribe.
 ###  2. Loss Aversion - Endowment Effect
