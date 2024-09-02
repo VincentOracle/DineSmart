@@ -8,6 +8,8 @@ The goal is to design a website focused on recipes and food blogging, where the 
 Screenshot: A header banner with bold text and a call-to-action button.
 
 
+
+
 Reasoning- This framing leverages loss aversion by making users feel they might miss out on something valuable if they don't subscribe.
 ###  2. Loss Aversion - Endowment Effect
 Design Choice- A free trial offer for premium recipe collections with a call-to-action, "Try our premium recipes free for 7 days!"
